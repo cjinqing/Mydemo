@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Myduty</string>
+    <string name="tab_menu_alert">新鲜事</string>
+    <string name="tab_menu_profile">推荐</string>
+    <string name="tab_menu_pay">我的</string>
+    <string name="tab_menu_setting">设置</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
